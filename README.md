@@ -1,2 +1,1 @@
-# Java_Notes
-The notes of the learning java
+# Java学习笔记
